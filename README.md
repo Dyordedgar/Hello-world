@@ -2,4 +2,4 @@
 
 Hi!
 
-My name is Edgar and I'm learning how to code.
+My name is Edgar and I'm learning how to code!
